@@ -23,7 +23,33 @@ window.I18N = {
     "ph_detailed_address": "e.g. House/Flat No. 42, Block B, Street 5, Near Metro Gate 2",
     "mobile_phone_label": "📱 Mobile Phone for Real-Time SMS Updates",
     "mobile_phone_desc": "Instant SMS updates will be dispatched for status changes & repair teams.",
-    "btn_cancel": "Cancel", "btn_submit_report": "Submit Report", "btn_submit_voting": "Submit for Voting"
+    "btn_cancel": "Cancel", "btn_submit_report": "Submit Report", "btn_submit_voting": "Submit for Voting",
+    "sovereign_gateway": "Sovereign Gateway",
+    "login_hero_sub": "Connecting citizens and city planners to build better neighborhoods together across BRICS communities.",
+    "login_role_select_title": "Select Access Role",
+    "login_btn_open_citizen": "Open Citizen Login →",
+    "login_card_city_title": "City Official Portal",
+    "login_btn_open_city": "Open City Official Login →",
+    "card_gov_title": "Government Hub",
+    "login_btn_open_gov": "Open Government Hub Login →",
+    "lbl_switch_role": "← Switch Role",
+    "login_tab_citizen": "👤 Resident",
+    "login_tab_city": "🏛️ City Officer",
+    "login_tab_gov": "⚖️ Government Hub",
+    "lbl_citizen_email": "Resident Email or Username *",
+    "ph_citizen_email": "Enter resident email or username",
+    "lbl_password": "Password *",
+    "btn_sign_in_citizen": "Sign In to Citizen Portal",
+    "lbl_or": "OR",
+    "btn_demo_citizen": "Enter Citizen Portal (1-Click Demo)",
+    "lbl_city_email": "Municipal Official Email *",
+    "ph_city_email": "Enter municipal email address",
+    "btn_sign_in_city": "Sign In to City Official Portal",
+    "btn_demo_city": "Enter City Official Portal (1-Click Demo)",
+    "lbl_gov_email": "Official Government Email *",
+    "ph_gov_email": "Enter government email address",
+    "btn_sign_in_gov": "Sign In to Government Hub",
+    "btn_demo_gov": "Enter Central Official Portal (1-Click Demo)"
   },
   "hi": {
     "nav_back": "वापस", "nav_home": "मुख्य पृष्ठ", "app_title": "सिविकपल्स-ब्रिक्स", "card_citizen_title": "नागरिक पोर्टल",
@@ -39,7 +65,33 @@ window.I18N = {
     "ph_detailed_address": "जैसे मकान/फ्लैट नं. 42, ब्लॉक बी, गली 5, मेट्रो गेट 2 के पास",
     "mobile_phone_label": "📱 रीयल-टाइम एसएमएस अपडेट के लिए मोबाइल नंबर",
     "mobile_phone_desc": "स्थिति परिवर्तन और मरम्मत टीमों के लिए त्वरित एसएमएस अपडेट भेजे जाएंगे।",
-    "btn_cancel": "रद्द करें", "btn_submit_report": "रिपोर्ट जमा करें", "btn_submit_voting": "वोटिंग के लिए सबमिट करें"
+    "btn_cancel": "रद्द करें", "btn_submit_report": "रिपोर्ट जमा करें", "btn_submit_voting": "वोटिंग के लिए सबमिट करें",
+    "sovereign_gateway": "सार्वभौम गेटवे",
+    "login_hero_sub": "ब्रिक्स समुदायों में बेहतर पड़ोस बनाने के लिए नागरिकों और नगर नियोजकों को जोड़ना।",
+    "login_role_select_title": "पहुँच भूमिका चुनें",
+    "login_btn_open_citizen": "नागरिक लॉगिन खोलें →",
+    "login_card_city_title": "नगर अधिकारी पोर्टल",
+    "login_btn_open_city": "नगर अधिकारी लॉगिन खोलें →",
+    "card_gov_title": "सरकारी हब",
+    "login_btn_open_gov": "सरकारी हब लॉगिन खोलें →",
+    "lbl_switch_role": "← भूमिका बदलें",
+    "login_tab_citizen": "👤 निवासी",
+    "login_tab_city": "🏛️ नगर अधिकारी",
+    "login_tab_gov": "⚖️ सरकारी हब",
+    "lbl_citizen_email": "निवासी ईमेल या उपयोगकर्ता नाम *",
+    "ph_citizen_email": "निवासी ईमेल या उपयोगकर्ता नाम दर्ज करें",
+    "lbl_password": "पासवर्ड *",
+    "btn_sign_in_citizen": "नागरिक पोर्टल में साइन इन करें",
+    "lbl_or": "या",
+    "btn_demo_citizen": "नागरिक पोर्टल में प्रवेश करें (1-क्लिक डेमो)",
+    "lbl_city_email": "नगर अधिकारी ईमेल *",
+    "ph_city_email": "नगर पालिका ईमेल पता दर्ज करें",
+    "btn_sign_in_city": "नगर अधिकारी पोर्टल में साइन इन करें",
+    "btn_demo_city": "नगर अधिकारी पोर्टल में प्रवेश करें (1-क्लिक डेमो)",
+    "lbl_gov_email": "आधिकारिक सरकारी ईमेल *",
+    "ph_gov_email": "सरकारी ईमेल पता दर्ज करें",
+    "btn_sign_in_gov": "सरकारी हब में साइन इन करें",
+    "btn_demo_gov": "केंद्रीय अधिकारी पोर्टल में प्रवेश करें (1-क्लिक डेमो)"
   },
   "pt": {
     "nav_back": "Voltar", "nav_home": "Início", "app_title": "CivicPulse-BRICS", "card_citizen_title": "Portal do Cidadão",
@@ -55,7 +107,33 @@ window.I18N = {
     "ph_detailed_address": "ex. Rua 5, Bloco B, perto do portão do metrô 2",
     "mobile_phone_label": "📱 Celular para Atualizações em Tempo Real",
     "mobile_phone_desc": "Alertas SMS instantâneos serão enviados sobre o status do reparo.",
-    "btn_cancel": "Cancelar", "btn_submit_report": "Enviar Relatório", "btn_submit_voting": "Enviar para Votação"
+    "btn_cancel": "Cancelar", "btn_submit_report": "Enviar Relatório", "btn_submit_voting": "Enviar para Votação",
+    "sovereign_gateway": "Portal Soberano",
+    "login_hero_sub": "Conectando cidadãos e planejadores urbanos para construir bairros melhores nas comunidades BRICS.",
+    "login_role_select_title": "Selecionar Função de Acesso",
+    "login_btn_open_citizen": "Abrir Login do Cidadão →",
+    "login_card_city_title": "Portal do Oficial Municipal",
+    "login_btn_open_city": "Abrir Login do Oficial Municipal →",
+    "card_gov_title": "Central do Governo",
+    "login_btn_open_gov": "Abrir Login da Central do Governo →",
+    "lbl_switch_role": "← Alterar Função",
+    "login_tab_citizen": "👤 Residente",
+    "login_tab_city": "🏛️ Oficial Municipal",
+    "login_tab_gov": "⚖️ Central do Governo",
+    "lbl_citizen_email": "E-mail ou Usuário do Residente *",
+    "ph_citizen_email": "Digite o e-mail ou usuário do residente",
+    "lbl_password": "Senha *",
+    "btn_sign_in_citizen": "Entrar no Portal do Cidadão",
+    "lbl_or": "OU",
+    "btn_demo_citizen": "Entrar no Portal do Cidadão (Demonstração)",
+    "lbl_city_email": "E-mail do Oficial Municipal *",
+    "ph_city_email": "Digite o e-mail municipal",
+    "btn_sign_in_city": "Entrar no Portal do Oficial Municipal",
+    "btn_demo_city": "Entrar no Portal do Oficial Municipal (Demonstração)",
+    "lbl_gov_email": "E-mail Oficial do Governo *",
+    "ph_gov_email": "Digite o e-mail governamental",
+    "btn_sign_in_gov": "Entrar na Central do Governo",
+    "btn_demo_gov": "Entrar na Central do Governo (Demonstração)"
   },
   "ru": {
     "nav_back": "Назад", "nav_home": "Главная", "app_title": "CivicPulse-BRICS", "card_citizen_title": "Портал граждан",
@@ -71,7 +149,33 @@ window.I18N = {
     "ph_detailed_address": "например, дом 42, блок Б, около метро",
     "mobile_phone_label": "📱 Телефон для СМС уведомлений",
     "mobile_phone_desc": "СМС уведомления о статусе ремонта.",
-    "btn_cancel": "Отмена", "btn_submit_report": "Отправить отчет", "btn_submit_voting": "Отправить на голосование"
+    "btn_cancel": "Отмена", "btn_submit_report": "Отправить отчет", "btn_submit_voting": "Отправить на голосование",
+    "sovereign_gateway": "Суверенный шлюз",
+    "login_hero_sub": "Объединение граждан и городских проектировщиков для создания лучших районов в сообществах БРИКС.",
+    "login_role_select_title": "Выберите роль доступа",
+    "login_btn_open_citizen": "Открыть вход для граждан →",
+    "login_card_city_title": "Портал городских служащих",
+    "login_btn_open_city": "Открыть вход для служащих →",
+    "card_gov_title": "Правительственный хаб",
+    "login_btn_open_gov": "Открыть вход в правительственный хаб →",
+    "lbl_switch_role": "← Сменить роль",
+    "login_tab_citizen": "👤 Житель",
+    "login_tab_city": "🏛️ Городской служащий",
+    "login_tab_gov": "⚖️ Правительственный хаб",
+    "lbl_citizen_email": "Email или имя пользователя жителя *",
+    "ph_citizen_email": "Введите email или имя пользователя",
+    "lbl_password": "Пароль *",
+    "btn_sign_in_citizen": "Войти в портал граждан",
+    "lbl_or": "ИЛИ",
+    "btn_demo_citizen": "Войти в портал граждан (Демо в 1 клик)",
+    "lbl_city_email": "Email муниципального служащего *",
+    "ph_city_email": "Введите email муниципального служащего",
+    "btn_sign_in_city": "Войти в портал городских служащих",
+    "btn_demo_city": "Войти в портал городских служащих (Демо)",
+    "lbl_gov_email": "Официальный правительственный email *",
+    "ph_gov_email": "Введите правительственный email",
+    "btn_sign_in_gov": "Войти в правительственный хаб",
+    "btn_demo_gov": "Войти в правительственный хаб (Демо)"
   },
   "zh": {
     "nav_back": "返回", "nav_home": "首页", "app_title": "CivicPulse-BRICS", "card_citizen_title": "市民门户",
@@ -87,39 +191,159 @@ window.I18N = {
     "ph_detailed_address": "例如：B座5街42号，靠近地铁2号门",
     "mobile_phone_label": "📱 用于实时短信更新的手机号",
     "mobile_phone_desc": "修缮进度将通过短信及时通知。",
-    "btn_cancel": "取消", "btn_submit_report": "提交报告", "btn_submit_voting": "提交投票"
+    "btn_cancel": "取消", "btn_submit_report": "提交报告", "btn_submit_voting": "提交投票",
+    "sovereign_gateway": "主权网关",
+    "login_hero_sub": "连接市民与城市规划者，共同建设更美好的金砖国家社区。",
+    "login_role_select_title": "选择访问角色",
+    "login_btn_open_citizen": "打开市民登录 →",
+    "login_card_city_title": "市政官员门户",
+    "login_btn_open_city": "打开市政官员登录 →",
+    "card_gov_title": "政府枢纽",
+    "login_btn_open_gov": "打开政府枢纽登录 →",
+    "lbl_switch_role": "← 切换角色",
+    "login_tab_citizen": "👤 居民",
+    "login_tab_city": "🏛️ 市政官员",
+    "login_tab_gov": "⚖️ 政府枢纽",
+    "lbl_citizen_email": "居民电子邮箱或用户名 *",
+    "ph_citizen_email": "输入居民电子邮箱或用户名",
+    "lbl_password": "密码 *",
+    "btn_sign_in_citizen": "登录市民门户",
+    "lbl_or": "或",
+    "btn_demo_citizen": "进入市民门户（一键演示）",
+    "lbl_city_email": "市政官员电子邮箱 *",
+    "ph_city_email": "输入市政官员电子邮箱",
+    "btn_sign_in_city": "登录市政官员门户",
+    "btn_demo_city": "进入市政官员门户（一键演示）",
+    "lbl_gov_email": "官方政府电子邮箱 *",
+    "ph_gov_email": "输入政府电子邮箱",
+    "btn_sign_in_gov": "登录政府枢纽",
+    "btn_demo_gov": "进入中央官员门户（一键演示）"
   },
-  "ta": {
-    "nav_back": "பின்செல்", "nav_home": "முகப்பு", "app_title": "சிவிக்பல்ஸ்-பிரிக்ஸ்", "card_citizen_title": "குடிமக்கள் தளம்",
-    "modal_report_title": "சிக்கலை புகாரளி", "lbl_selected_category": "தேர்ந்தெடுக்கப்பட்ட வகை", "lbl_problem": "என்ன பிரச்சினை? *",
-    "btn_voice_input": "AI உடன் பேசுங்கள்", "lbl_add_photo": "புகைப்படம் (விருப்பம்)", "lbl_add_voice": "குரல் (விருப்பம்)",
-    "btn_use_current_location": "தற்போதைய இடத்தைப் பயன்படுத்து", "btn_pin_on_map": "வரைபடத்தில் குறிக்கவும்",
-    "lbl_detailed_address": "விரிவான முகவரி *", "mobile_phone_label": "📱 மொபைல் எண்", "btn_cancel": "ரத்துசெய்", "btn_submit_report": "சமர்ப்பி"
+  "ar": {
+    "nav_back": "رجوع", "nav_home": "الرئيسية", "app_title": "سيفيك بلص-بريكس", "card_citizen_title": "بوابة المواطن",
+    "btn_use_current_location": "استخدام الموقع الحالي", "btn_voice_input": "التحدث مع الذكاء الاصطناعي",
+    "sovereign_gateway": "البوابة السيادية", "login_hero_sub": "ربط المواطنين ومخططي المدن لبناء أحياء أفضل عبر مجتمعات بريكس.",
+    "login_role_select_title": "حدد دور الدخول", "login_btn_open_citizen": "فتح دخول المواطن ←",
+    "login_card_city_title": "بوابة مسؤول المدينة", "login_btn_open_city": "فتح دخول مسؤول المدينة ←",
+    "card_gov_title": "المركز الحكومي", "login_btn_open_gov": "فتح دخول المركز الحكومي ←"
   },
-  "te": {
-    "nav_back": "వెనుకకు", "nav_home": "హోమ్", "app_title": "సివిక్‌పల్స్-బ్రిక్స్", "card_citizen_title": "పౌర వేదిక",
-    "modal_report_title": "సమస్యను నివేదించండి", "lbl_selected_category": "ఎంచుకున్న వర్గం", "lbl_problem": "సమస్య ఏమిటి? *",
-    "btn_voice_input": "AIతో మాట్లాడండి", "lbl_add_photo": "ఫోటో (ఐచ్ఛికం)", "lbl_add_voice": "వాయిస్ (ఐచ్ఛికం)",
-    "btn_use_current_location": "ప్రస్తుత స్థానాన్ని ఉపయోగించండి", "btn_pin_on_map": "మ్యాప్‌లో పిన్ చేయండి",
-    "lbl_detailed_address": "వివరమైన చిరునామా *", "mobile_phone_label": "📱 మొబైల్ ఫోన్", "btn_cancel": "రద్దు చేయి", "btn_submit_report": "సమర్పించు"
+  "id": {
+    "nav_back": "Kembali", "nav_home": "Beranda", "app_title": "CivicPulse-BRICS", "card_citizen_title": "Portal Warga",
+    "btn_use_current_location": "Gunakan Lokasi Saat Ini", "btn_voice_input": "Bicara dengan AI",
+    "sovereign_gateway": "Gerbang Berdaulat", "login_role_select_title": "Pilih Peran Akses"
+  },
+  "fa": {
+    "nav_back": "بازگشت", "nav_home": "خانه", "app_title": "سیویک‌پالس-بریکس", "card_citizen_title": "پرتال شهروند",
+    "btn_use_current_location": "استفاده از موقعیت فعلی", "btn_voice_input": "صحبت با هوش مصنوعی",
+    "sovereign_gateway": "درگاه حاکمیتی", "login_role_select_title": "انتخاب نقش دسترسی"
+  },
+  "am": {
+    "nav_back": "ተመለስ", "nav_home": "መነሻ", "app_title": "CivicPulse-BRICS", "card_citizen_title": "የዜጎች መግቢያ",
+    "btn_use_current_location": "የአሁኑን ቦታ ተጠቀም", "btn_voice_input": "ከAI ጋር ተናገር",
+    "sovereign_gateway": "ሉአላዊ መግቢያ", "login_role_select_title": "የመዳረሻ ሚና ይምረጡ"
+  },
+  "zu": {
+    "nav_back": "Emuva", "nav_home": "Ikhaya", "app_title": "CivicPulse-BRICS", "card_citizen_title": "I-Portal Yesakhamuzi",
+    "btn_use_current_location": "Sebenzisa Indawo Yaanomuhle", "btn_voice_input": "Khuluma ne-AI",
+    "sovereign_gateway": "Igedhi Eliyizimele", "login_role_select_title": "Khetha Inqubo Yokungena"
+  },
+  "af": {
+    "nav_back": "Terug", "nav_home": "Tuis", "app_title": "CivicPulse-BRICS", "card_citizen_title": "Burger Portaal",
+    "btn_use_current_location": "Gebruik Huidige Ligging", "btn_voice_input": "Praat met AI",
+    "sovereign_gateway": "Souewereine Poort", "login_role_select_title": "Kies Toegangskarakter"
+  },
+  "xh": {
+    "nav_back": "Emva", "nav_home": "Ikhaya", "app_title": "CivicPulse-BRICS", "card_citizen_title": "Isango Loxwebhu",
+    "btn_use_current_location": "Sebenzisa Indawo Yanoqonqo", "btn_voice_input": "Thetha ne-AI",
+    "sovereign_gateway": "Isango Elilawulayo", "login_role_select_title": "Khetha Indima Yokungena"
   },
   "bn": {
     "nav_back": "ফিরে যান", "nav_home": "হোম", "app_title": "সিভিকপালস-ব্রিকস", "card_citizen_title": "নাগরিক পোর্টাল",
     "modal_report_title": "সমস্যা রিপোর্ট করুন", "lbl_selected_category": "নির্বাচিত বিভাগ", "lbl_problem": "সমস্যা কি? *",
     "btn_voice_input": "AI এর সাথে কথা বলুন", "lbl_add_photo": "ছবি (ঐচ্ছিক)", "lbl_add_voice": "ভয়েস (ঐচ্ছিক)",
     "btn_use_current_location": "বর্তমান অবস্থান ব্যবহার করুন", "btn_pin_on_map": "ম্যাপে পিন করুন",
-    "lbl_detailed_address": "বিস্তারিত ঠিকানা *", "mobile_phone_label": "📱 মোবাইল নম্বর", "btn_cancel": "বাতিল", "btn_submit_report": "জমা দিন"
+    "lbl_detailed_address": "বিস্তারিত ঠিকানা *", "mobile_phone_label": "📱 মোবাইল নম্বর", "btn_cancel": "বাতিল", "btn_submit_report": "জমা দিন",
+    "sovereign_gateway": "সার্বভৌম প্রবেশদ্বার",
+    "login_hero_sub": "উন্নত পাড়া তৈরিতে নাগরিক এবং শহর পরিকল্পনাকারীদের সংযুক্ত করা।",
+    "login_role_select_title": "অ্যাক্সেস ভূমিকা নির্বাচন করুন",
+    "login_btn_open_citizen": "নাগরিক লগইন খুলুন →",
+    "login_card_city_title": "সিটি অফিসিয়াল পোর্টাল",
+    "login_btn_open_city": "সিটি অফিসিয়াল লগইন খুলুন →",
+    "card_gov_title": "সরকারি হাব",
+    "login_btn_open_gov": "সরকারি হাব লগইন খুলুন →"
   },
   "mr": {
     "nav_back": "मागे", "nav_home": "मुख्य पृष्ठ", "app_title": "सिव्हिकपल्स-ब्रिक्स", "card_citizen_title": "नागरिक पोर्टल",
     "modal_report_title": "तक्रार नोंदवा", "lbl_selected_category": "निवडलेली श्रेणी", "lbl_problem": "समस्या काय आहे? *",
     "btn_voice_input": "AI शी बोला", "lbl_add_photo": "फोटो (पर्यायी)", "lbl_add_voice": "व्हॉइस (पर्यायी)",
     "btn_use_current_location": "सध्याचे स्थान वापरा", "btn_pin_on_map": "नकाशावर पिन करा",
-    "lbl_detailed_address": "सविस्तर पत्ता *", "mobile_phone_label": "📱 मोबाईल क्रमांक", "btn_cancel": "रद्द करा", "btn_submit_report": "सबमिट करा"
+    "lbl_detailed_address": "सविस्तर पत्ता *", "mobile_phone_label": "📱 मोबाईल क्रमांक", "btn_cancel": "रद्द करा", "btn_submit_report": "सबमिट करा",
+    "sovereign_gateway": "सार्वभौम गेटवे",
+    "login_hero_sub": "चांगले परिसर निर्माण करण्यासाठी नागरिक आणि नगर रचनाकारांना जोडणे.",
+    "login_role_select_title": "प्रवेश भूमिका निवडा",
+    "login_btn_open_citizen": "नागरिक लॉगिन उघडा →",
+    "login_card_city_title": "शहर अधिकारी पोर्टल",
+    "login_btn_open_city": "शहर अधिकारी लॉगिन उघडा →",
+    "card_gov_title": "शासकीय हब",
+    "login_btn_open_gov": "शासकीय हब लॉगिन उघडा →"
+  },
+  "ta": {
+    "nav_back": "பின்செல்", "nav_home": "முகப்பு", "app_title": "சிவிக்பல்ஸ்-பிரிக்ஸ்", "card_citizen_title": "குடிமக்கள் தளம்",
+    "btn_use_current_location": "தற்போதைய இடத்தைப் பயன்படுத்து", "btn_voice_input": "AI உடன் பேசுங்கள்",
+    "sovereign_gateway": "இறைமையுள்ள நுழைவாயில்", "login_role_select_title": "அணுகல் பாத்திரத்தைத் தேர்ந்தெடுக்கவும்"
+  },
+  "te": {
+    "nav_back": "వెనుకకు", "nav_home": "హోమ్", "app_title": "సివిక్‌పల్స్-బ్రిక్స్", "card_citizen_title": "పౌర వేదిక",
+    "btn_use_current_location": "ప్రస్తుత స్థానాన్ని ఉపయోగించండి", "btn_voice_input": "AIతో మాట్లాడండి",
+    "sovereign_gateway": "సార్వభౌమ గేట్‌వే", "login_role_select_title": "యాక్సెస్ పాత్రను ఎంచుకోండి"
+  },
+  "gu": {
+    "nav_back": "પાછા", "nav_home": "મુખ્ય પૃષ્ઠ", "app_title": "સિવિકપલ્સ-બ્રિક્સ", "card_citizen_title": "નાગરિક પોર્ટલ",
+    "btn_use_current_location": "વર્તમાન સ્થાનનો ઉપયોગ કરો", "btn_voice_input": "AI સાથે બોલો",
+    "sovereign_gateway": "સાર્વભૌમ ગેટવે", "login_role_select_title": "એક્સેસ ભૂમિકા પસંદ કરો"
+  },
+  "kn": {
+    "nav_back": "ಹಿಂದಕ್ಕೆ", "nav_home": "ಮುಖ್ಯ ಪುಟ", "app_title": "ಸಿವಿಕ್‌ಪಲ್ಸ್-ಬ್ರಿಕ್ಸ್", "card_citizen_title": "ನಾಗರಿಕ ಪೋರ್ಟಲ್",
+    "btn_use_current_location": "ಪ್ರಸ್ತುತ ಸ್ಥಳ ಬಳಸಿ", "btn_voice_input": "AI ಜೊತೆ ಮಾತನಾಡಿ",
+    "sovereign_gateway": "ಸಾರ್ವಭೌಮ ಗೇಟ್‌ವೇ", "login_role_select_title": "ಪ್ರವೇಶ ಪಾತ್ರವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "ml": {
+    "nav_back": "തിരികെ", "nav_home": "ഹോം", "app_title": "സിവിക്പൾസ്-ബ്രിക്സ്", "card_citizen_title": "സിറ്റിസൺ പോർട്ടൽ",
+    "btn_use_current_location": "നിലവിലെ ലൊക്കേഷൻ ഉപയോഗിക്കുക", "btn_voice_input": "AI-മായി സംസാരിക്കുക",
+    "sovereign_gateway": "പരമാധികാര ഗേറ്റ്‌വേ", "login_role_select_title": "ആക്സസ് റോൾ തിരഞ്ഞെടുക്കുക"
+  },
+  "pa": {
+    "nav_back": "ਵਾਪਸ", "nav_home": "ਮੁੱਖ ਪੰਨਾ", "app_title": "ਸਿਵਿਕਪਲਸ-ਬ੍ਰਿਕਸ", "card_citizen_title": "ਨਾਗਰਿਕ ਪੋਰਟਲ",
+    "btn_use_current_location": "ਮੌਜੂਦਾ ਸਥਾਨ ਵਰਤੋਂ", "btn_voice_input": "AI ਨਾਲ ਗੱਲ ਕਰੋ",
+    "sovereign_gateway": "ਸੰਪ੍ਰਭੂ ਗੇਟਵੇ", "login_role_select_title": "ਪਹੁੰਚ ਭੂਮਿਕਾ ਚੁਣੋ"
+  },
+  "or": {
+    "nav_back": "ଫେରନ୍ତୁ", "nav_home": "ମୁଖ୍ୟ ପୃଷ୍ଠା", "app_title": "ସିଭିକ୍‌ପଲ୍ସ-ବ୍ରିକ୍ସ", "card_citizen_title": "ନାଗରିକ ପୋର୍ଟାଲ୍",
+    "btn_use_current_location": "ବର୍ତ୍ତମାନର ସ୍ଥାନ ବ୍ୟବହାର କରନ୍ତୁ", "btn_voice_input": "AI ସହିତ କଥା ହୁଅନ୍ତୁ",
+    "sovereign_gateway": "ସାର୍ବଭୌମ ଗେଟୱେ", "login_role_select_title": "ଆକ୍ସେସ ଭୂମିକା ଚୟନ କରନ୍ତୁ"
+  },
+  "as": {
+    "nav_back": "উভতি যাওক", "nav_home": "মূল পৃষ্ঠা", "app_title": "চিভিকপালছ-ব্ৰিকছ", "card_citizen_title": "নাগৰিক পৰ্টেল",
+    "btn_use_current_location": "বৰ্তমান অৱস্থান ব্যৱহাৰ কৰক", "btn_voice_input": "AI ৰ সৈতে কথা কওক",
+    "sovereign_gateway": "সার্বভৌম গেটৱে", "login_role_select_title": "এক্সেছ ভূমিকা বাছনি কৰক"
+  },
+  "ur": {
+    "nav_back": "واپس", "nav_home": "ہوم", "app_title": "سیوک پلس-برکس", "card_citizen_title": "سٹیزن پورٹل",
+    "btn_use_current_location": "موجودہ مقام استعمال کریں", "btn_voice_input": "AI سے بات کریں",
+    "sovereign_gateway": "خودمختار گیٹ وے", "login_role_select_title": "رسائی کا کردار منتخب کریں"
   }
+};
+
 window.I18N_PHRASES = {
   "hi": {
     "Citizen Portal": "नागरिक पोर्टल",
+    "City Official Portal": "नगर अधिकारी पोर्टल",
+    "Government Hub": "सरकारी हब",
+    "Select Access Role": "पहुँच भूमिका चुनें",
+    "Open Citizen Login →": "नागरिक लॉगिन खोलें →",
+    "Open City Official Login →": "नगर अधिकारी लॉगिन खोलें →",
+    "Open Government Hub Login →": "सरकारी हब लॉगिन खोलें →",
+    "Connecting citizens and city planners to build better neighborhoods together across BRICS communities.": "ब्रिक्स समुदायों में बेहतर पड़ोस बनाने के लिए नागरिकों और नगर नियोजकों को जोड़ना।",
     "Track Reports": "रिपोर्ट ट्रैक करें",
     "Track Your Reports": "आपकी दर्ज शिकायतें",
     "Track All Reports": "सभी सार्वजनिक शिकायतें",
@@ -146,23 +370,11 @@ window.I18N_PHRASES = {
     "Filter City": "शहर फ़िल्टर करें",
     "Filter RYG Status": "स्थिति फ़िल्टर करें",
     "Search by Complaint ID, category, or address.": "शिकायत आईडी, श्रेणी या पते द्वारा खोजें।",
-    "Roads, Bridges & Arterial Corridors": "सड़कें, पुल और प्रमुख मार्ग",
-    "Water Supply, Sewage & Drainage": "जल आपूर्ति, सीवेज और जल निकासी",
-    "Electrical Grid, Transformers & Power": "बिजली ग्रिड, ट्रांसफार्मर और बिजली",
-    "Sanitation, Solid Waste & Cleanliness": "स्वच्छता, ठोस कचरा और सफाई",
-    "Parks, Green Spaces & Urban Forestry": "पार्क, हरे भरे स्थान और शहरी वानिकी",
-    "Street Lighting & Night Safety": "स्ट्रीट लाइटिंग और रात्रि सुरक्षा",
-    "Public Transport, Bus stops & Rail": "सार्वजनिक परिवहन, बस स्टैंड और रेल",
-    "Traffic Management & Signals": "यातायात प्रबंधन और सिग्नल",
-    "Public Health, Hospitals & Hygiene": "जन स्वास्थ्य, अस्पताल और स्वच्छता",
-    "Municipal Governance, Permits & Taxes": "नगर निगम प्रशासन, परमिट और कर",
     "PENDING REVIEW": "समीक्षा लंबित",
     "IN PROGRESS": "प्रगति पर है",
     "RESOLVED": "हल किया गया",
     "CRITICAL": "गंभीर",
     "HIGH PRIORITY": "उच्च प्राथमिकता",
-    "MEDIUM PRIORITY": "मध्यम प्राथमिकता",
-    "LOW PRIORITY": "कम प्राथमिकता",
     "Read Description": "विवरण पढ़ें",
     "Hide Description": "विवरण छिपाएं",
     "Open in Google Maps": "गूगल मैप्स में खोलें",
@@ -172,6 +384,13 @@ window.I18N_PHRASES = {
   },
   "pt": {
     "Citizen Portal": "Portal do Cidadão",
+    "City Official Portal": "Portal do Oficial Municipal",
+    "Government Hub": "Central do Governo",
+    "Select Access Role": "Selecionar Função de Acesso",
+    "Open Citizen Login →": "Abrir Login do Cidadão →",
+    "Open City Official Login →": "Abrir Login do Oficial Municipal →",
+    "Open Government Hub Login →": "Abrir Login da Central do Governo →",
+    "Connecting citizens and city planners to build better neighborhoods together across BRICS communities.": "Conectando cidadãos e planejadores urbanos para construir bairros melhores nas comunidades BRICS.",
     "Track Reports": "Acompanhar Relatórios",
     "Track Your Reports": "Seus Relatórios",
     "Track All Reports": "Todos os Relatórios",
@@ -190,16 +409,6 @@ window.I18N_PHRASES = {
     "Home": "Início",
     "OFFICIAL BULLETIN": "BOLETIM OFICIAL",
     "Verified Resident • Delhi": "Residente Verificado • Délhi",
-    "Roads, Bridges & Arterial Corridors": "Estradas, Pontes e Corredores",
-    "Water Supply, Sewage & Drainage": "Abastecimento de Água e Esgoto",
-    "Electrical Grid, Transformers & Power": "Rede Elétrica e Transformadores",
-    "Sanitation, Solid Waste & Cleanliness": "Saneamento e Resíduos Sólidos",
-    "Parks, Green Spaces & Urban Forestry": "Parques e Áreas Verdes",
-    "Street Lighting & Night Safety": "Iluminação Pública e Segurança",
-    "Public Transport, Bus stops & Rail": "Transporte Público e Ônibus",
-    "Traffic Management & Signals": "Gestão de Trânsito e Sinais",
-    "Public Health, Hospitals & Hygiene": "Saúde Pública e Hospitais",
-    "Municipal Governance, Permits & Taxes": "Governança Municipal e Impostos",
     "PENDING REVIEW": "EM ANÁLISE",
     "IN PROGRESS": "EM ANDAMENTO",
     "RESOLVED": "RESOLVIDO",
@@ -213,6 +422,13 @@ window.I18N_PHRASES = {
   },
   "ru": {
     "Citizen Portal": "Портал граждан",
+    "City Official Portal": "Портал городских служащих",
+    "Government Hub": "Правительственный хаб",
+    "Select Access Role": "Выберите роль доступа",
+    "Open Citizen Login →": "Открыть вход для граждан →",
+    "Open City Official Login →": "Открыть вход для служащих →",
+    "Open Government Hub Login →": "Открыть вход в правительственный хаб →",
+    "Connecting citizens and city planners to build better neighborhoods together across BRICS communities.": "Объединение граждан и городских проектировщиков для создания лучших районов в сообществах БРИКС.",
     "Track Reports": "Отслеживание отчетов",
     "Track Your Reports": "Ваши отчеты",
     "Track All Reports": "Все отчеты",
@@ -229,12 +445,6 @@ window.I18N_PHRASES = {
     "Back": "Назад",
     "Home": "Главная",
     "OFFICIAL BULLETIN": "ОФИЦИАЛЬНЫЙ БЮЛЛЕТЕНЬ",
-    "Roads, Bridges & Arterial Corridors": "Дороги, мосты и магистрали",
-    "Water Supply, Sewage & Drainage": "Водоснабжение и канализация",
-    "Electrical Grid, Transformers & Power": "Электросеть и трансформаторы",
-    "Sanitation, Solid Waste & Cleanliness": "Санитария и утилизация отходов",
-    "Street Lighting & Night Safety": "Уличное освещение",
-    "Public Transport, Bus stops & Rail": "Общественный транспорт",
     "PENDING REVIEW": "НА НАРАБОТКЕ",
     "IN PROGRESS": "В ПРОЦЕССЕ",
     "RESOLVED": "РЕШЕНО",
@@ -244,6 +454,13 @@ window.I18N_PHRASES = {
   },
   "zh": {
     "Citizen Portal": "市民门户",
+    "City Official Portal": "市政官员门户",
+    "Government Hub": "政府枢纽",
+    "Select Access Role": "选择访问角色",
+    "Open Citizen Login →": "打开市民登录 →",
+    "Open City Official Login →": "打开市政官员登录 →",
+    "Open Government Hub Login →": "打开政府枢纽登录 →",
+    "Connecting citizens and city planners to build better neighborhoods together across BRICS communities.": "连接市民与城市规划者，共同建设更美好的金砖国家社区。",
     "Track Reports": "跟踪报告",
     "Track Your Reports": "您的报告",
     "Track All Reports": "所有社区报告",
@@ -260,11 +477,6 @@ window.I18N_PHRASES = {
     "Back": "返回",
     "Home": "首页",
     "OFFICIAL BULLETIN": "官方公告",
-    "Roads, Bridges & Arterial Corridors": "道路、桥梁与干道",
-    "Water Supply, Sewage & Drainage": "供水、污水与排水",
-    "Electrical Grid, Transformers & Power": "电网、变压器与电力",
-    "Sanitation, Solid Waste & Cleanliness": "环境卫生与垃圾处理",
-    "Street Lighting & Night Safety": "路灯照明与夜间安全",
     "PENDING REVIEW": "待审核",
     "IN PROGRESS": "处理中",
     "RESOLVED": "已解决",
@@ -272,57 +484,15 @@ window.I18N_PHRASES = {
     "Open in Google Maps": "在谷歌地图中打开",
     "Reported by:": "报告人："
   },
-  "ta": {
-    "Citizen Portal": "குடிமக்கள் தளம்",
-    "Track Reports": "அறிக்கைகளைக் கண்காணிக்கவும்",
-    "Report an Issue": "சிக்கலை புகாரளி",
-    "Submit Report": "சமர்ப்பி",
-    "Cancel": "ரத்துசெய்",
-    "Back": "பின்செல்",
-    "Home": "முகப்பு",
-    "PENDING REVIEW": "மதிப்பாய்வில் உள்ளது",
-    "IN PROGRESS": "செயல்பாட்டில் உள்ளது",
-    "RESOLVED": "தீர்க்கப்பட்டது",
-    "Reported by:": "புகாரளித்தவர்:"
-  },
-  "te": {
-    "Citizen Portal": "పౌర వేదిక",
-    "Track Reports": "నివేదికలను ట్రాక్ చేయండి",
-    "Report an Issue": "సమస్యను నివేదించండి",
-    "Submit Report": "సమర్పించు",
-    "Cancel": "రద్దు చేయి",
-    "Back": "వెనుకకు",
-    "Home": "హోమ్",
-    "PENDING REVIEW": "పరిశీలనలో ఉంది",
-    "IN PROGRESS": "పురోగతిలో ఉంది",
-    "RESOLVED": "పరిష్కరించబడింది",
-    "Reported by:": "నివేదించినవారు:"
-  },
-  "bn": {
-    "Citizen Portal": "নাগরিক পোর্টাল",
-    "Track Reports": "রিপোর্ট ট্র্যাক করুন",
-    "Report an Issue": "সমস্যা রিপোর্ট করুন",
-    "Submit Report": "জমা দিন",
-    "Cancel": "বাতিল",
-    "Back": "ফিরে যান",
-    "Home": "হোম",
-    "PENDING REVIEW": "পর্যালোচনায় ঝুলে আছে",
-    "IN PROGRESS": "চলমান",
-    "RESOLVED": "সমাধান করা হয়েছে",
-    "Reported by:": "রিপোর্ট করেছেন:"
-  },
-  "mr": {
-    "Citizen Portal": "नागरिक पोर्टल",
-    "Track Reports": "तक्रारी ट्रॅक करा",
-    "Report an Issue": "तक्रार नोंदवा",
-    "Submit Report": "सबमिट करा",
-    "Cancel": "रद्द करा",
-    "Back": "मागे",
-    "Home": "मुख्य पृष्ठ",
-    "PENDING REVIEW": "पुनरावलोकन प्रलंबित",
-    "IN PROGRESS": "प्रगतीपथावर आहे",
-    "RESOLVED": "सोडवले गेले",
-    "Reported by:": "द्वारे तक्रार दाखल:"
+  "ar": {
+    "Citizen Portal": "بوابة المواطن",
+    "City Official Portal": "بوابة مسؤول المدينة",
+    "Government Hub": "المركز الحكومي",
+    "Select Access Role": "حدد دور الدخول",
+    "Open Citizen Login →": "فتح دخول المواطن ←",
+    "Open City Official Login →": "فتح دخول مسؤول المدينة ←",
+    "Open Government Hub Login →": "فتح دخول المركز الحكومي ←",
+    "Connecting citizens and city planners to build better neighborhoods together across BRICS communities.": "ربط المواطنين ومخططي المدن لبناء أحياء أفضل عبر مجتمعات بريكس."
   }
 };
 
@@ -379,27 +549,54 @@ window.translateDOM = function(root) {
 
   // 1. Elements with data-i18n
   target.querySelectorAll('[data-i18n]').forEach(el => {
+    if (!el.__civic_orig_text) {
+      el.__civic_orig_text = el.textContent.trim();
+    }
     const key = el.getAttribute('data-i18n');
-    const val = dict[key] || fallbackDict[key] || phraseDict[key];
-    if (val !== undefined && val !== null) {
+    let val = dict[key];
+    if (val === undefined || val === null) {
+      val = phraseDict[el.__civic_orig_text] || phraseDict[cleanPunctuation(el.__civic_orig_text)];
+    }
+    if (lang === 'en') {
+      val = fallbackDict[key] || el.__civic_orig_text;
+    }
+    if (val !== undefined && val !== null && val !== '') {
       el.textContent = val;
     }
   });
 
   // 2. Elements with data-i18n-placeholder
   target.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+    if (!el.__civic_orig_placeholder) {
+      el.__civic_orig_placeholder = el.getAttribute('placeholder') || '';
+    }
     const key = el.getAttribute('data-i18n-placeholder');
-    const val = dict[key] || fallbackDict[key] || phraseDict[key];
-    if (val !== undefined && val !== null) {
+    let val = dict[key];
+    if (val === undefined || val === null) {
+      val = phraseDict[el.__civic_orig_placeholder] || phraseDict[cleanPunctuation(el.__civic_orig_placeholder)];
+    }
+    if (lang === 'en') {
+      val = fallbackDict[key] || el.__civic_orig_placeholder;
+    }
+    if (val !== undefined && val !== null && val !== '') {
       el.setAttribute('placeholder', val);
     }
   });
 
   // 3. Elements with data-i18n-title
   target.querySelectorAll('[data-i18n-title]').forEach(el => {
+    if (!el.__civic_orig_title) {
+      el.__civic_orig_title = el.getAttribute('title') || '';
+    }
     const key = el.getAttribute('data-i18n-title');
-    const val = dict[key] || fallbackDict[key] || phraseDict[key];
-    if (val !== undefined && val !== null) {
+    let val = dict[key];
+    if (val === undefined || val === null) {
+      val = phraseDict[el.__civic_orig_title] || phraseDict[cleanPunctuation(el.__civic_orig_title)];
+    }
+    if (lang === 'en') {
+      val = fallbackDict[key] || el.__civic_orig_title;
+    }
+    if (val !== undefined && val !== null && val !== '') {
       el.setAttribute('title', val);
     }
   });
@@ -418,10 +615,6 @@ window.translateDOM = function(root) {
           return NodeFilter.FILTER_REJECT;
         }
         if (parent.closest('select') || parent.classList.contains('lang-select')) {
-          return NodeFilter.FILTER_REJECT;
-        }
-        // If parent has data-i18n and NO child elements, data-i18n already handled it
-        if (parent.hasAttribute('data-i18n') && parent.children.length === 0) {
           return NodeFilter.FILTER_REJECT;
         }
         return NodeFilter.FILTER_ACCEPT;
@@ -452,7 +645,7 @@ window.translateDOM = function(root) {
       return;
     }
 
-    // Check exact match
+    // Check exact match in phraseDict
     if (phraseDict[trimmedOrig]) {
       const match = phraseDict[trimmedOrig];
       node.nodeValue = origVal.replace(trimmedOrig, match);
@@ -541,8 +734,10 @@ window.triggerGoogleTranslate = function(lang) {
   
   if (gLang === 'en') {
     document.cookie = 'googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
-    document.cookie = `googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=${host};`;
-    document.cookie = `googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=.${host};`;
+    if (host && host.includes('.')) {
+      document.cookie = `googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=${host};`;
+      document.cookie = `googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=.${host};`;
+    }
     document.cookie = 'googtrans=/en/en; path=/;';
     const combo = document.querySelector('.goog-te-combo');
     if (combo) {
@@ -551,8 +746,10 @@ window.triggerGoogleTranslate = function(lang) {
     }
   } else {
     document.cookie = `googtrans=/en/${gLang}; path=/;`;
-    document.cookie = `googtrans=/en/${gLang}; path=/; domain=${host};`;
-    document.cookie = `googtrans=/en/${gLang}; path=/; domain=.${host};`;
+    if (host && host.includes('.')) {
+      document.cookie = `googtrans=/en/${gLang}; path=/; domain=${host};`;
+      document.cookie = `googtrans=/en/${gLang}; path=/; domain=.${host};`;
+    }
 
     const combo = document.querySelector('.goog-te-combo');
     if (combo) {
@@ -584,6 +781,9 @@ window.setLanguage = function(lang) {
 
   localStorage.setItem('civicpulse_lang', lang);
   document.documentElement.setAttribute('lang', lang);
+  if (window.AppState) {
+    window.AppState.activeLanguage = lang;
+  }
 
   // Set RTL for Arabic, Persian, and Urdu
   if (lang === 'ar' || lang === 'fa' || lang === 'ur') {
@@ -596,15 +796,6 @@ window.setLanguage = function(lang) {
   document.querySelectorAll('#lang-selector, #login-lang-select, .lang-select').forEach(sel => {
     if (sel && sel.value !== lang) sel.value = lang;
   });
-
-  // If reverting from non-English back to English:
-  if (lang === 'en' && previousLang !== 'en') {
-    window.triggerGoogleTranslate('en');
-    setTimeout(() => {
-      window.location.reload();
-    }, 100);
-    return;
-  }
 
   // 1. Instant local synchronous pass
   if (typeof window.translateDOM === 'function') {
@@ -652,24 +843,29 @@ window.initLanguage = function() {
 
   window.setLanguage(initialLang);
 
-  // Setup change event listeners on all language dropdowns (direct + delegation)
-  document.addEventListener('change', (e) => {
+  // Setup change and input event listeners on all language dropdowns
+  const handleLangChange = (e) => {
     if (e.target && (e.target.id === 'lang-selector' || e.target.id === 'login-lang-select' || e.target.classList.contains('lang-select'))) {
-      window.setLanguage(e.target.value);
+      if (e.target.value) {
+        window.setLanguage(e.target.value);
+      }
     }
-  });
+  };
+
+  document.addEventListener('change', handleLangChange);
+  document.addEventListener('input', handleLangChange);
+
   document.querySelectorAll('#lang-selector, #login-lang-select, .lang-select').forEach(sel => {
     if (sel) {
-      sel.addEventListener('change', (e) => {
-        window.setLanguage(e.target.value);
-      });
+      sel.addEventListener('change', (e) => window.setLanguage(e.target.value));
+      sel.addEventListener('input', (e) => window.setLanguage(e.target.value));
     }
   });
 
   // Install dynamic DOM mutation observer to translate newly injected content
   try {
     let mutationTimer = null;
-    const observer = new MutationObserver((mutations) => {
+    const observer = new MutationObserver(() => {
       const currentLang = localStorage.getItem('civicpulse_lang') || 'en';
       if (currentLang === 'en') return;
       clearTimeout(mutationTimer);
