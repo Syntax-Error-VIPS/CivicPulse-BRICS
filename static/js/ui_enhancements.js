@@ -74,6 +74,9 @@
   window.updateStatCounters = function (complaints, demands) {
     injectCitizenStatsBanner();
 
+    if (!complaints && window.AppState) complaints = window.AppState.complaints;
+    if (!demands && window.AppState) demands = window.AppState.demands;
+
     const total     = complaints ? complaints.length : 0;
     const resolved  = complaints ? complaints.filter(c => (c.status || '').toLowerCase().includes('resolved')).length : 0;
     const pending   = complaints ? complaints.filter(c => !(c.status || '').toLowerCase().includes('resolved')).length : 0;

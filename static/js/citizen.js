@@ -393,6 +393,10 @@ window.loadCitizenDemands = async function() {
     const totalVotes = AppState.demands.reduce((acc, d) => acc + (d.upvotes || 0), 0);
     const kpiDemands = document.getElementById('kpi-demands');
     if (kpiDemands) kpiDemands.textContent = totalVotes.toLocaleString();
+
+    if (window.updateStatCounters) {
+      window.updateStatCounters(AppState.complaints || [], AppState.demands || []);
+    }
   } catch (err) {
     console.error('Error loading demands:', err);
   }
@@ -553,6 +557,10 @@ window.loadComplaints = async function() {
     // Update KPI complaints count
     const kpiComplaints = document.getElementById('kpi-complaints');
     if (kpiComplaints) kpiComplaints.textContent = AppState.complaints.length;
+
+    if (window.updateStatCounters) {
+      window.updateStatCounters(AppState.complaints || [], AppState.demands || []);
+    }
   } catch (err) {
     console.error('Error loading complaints:', err);
   }
